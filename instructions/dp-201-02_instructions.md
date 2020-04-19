@@ -17,7 +17,6 @@ After completing this lab, you will be able to:
 
 1. Design an Enterprise BI solution in Azure
 2. Automate enterprise BI solutions in Azure
-3. Architect an Enterprise-grade conversational bot in Azure
 
 ## Scenario
   
@@ -29,7 +28,6 @@ At the end of this lab, you will have:
 
 1. Design an Enterprise BI solution in Azure
 2. Automate enterprise BI solutions in Azure
-3. Architect an Enterprise-grade conversational bot in Azure
 
 >**Note**: This lab is in two parts. This is part 1 where you work as a group to answer the questions. The timings of each exercise is at the discretion of the group. The entire lab should be completed within 60 minutes. In Part 2, the instructor will drive a discussion with the group about their learnings and findings about the Lab.
 
@@ -77,23 +75,6 @@ The main task for this exercise is as follows:
 
 > **Result**: After you completed this exercise, you have amended an architecture to include automation of an Enterprise BI solution in AdventureWorks.
 
-## Exercise 3: Conversational bot solutions in Azure
-
-**Group exercise**
-  
-The main task for this exercise is as follows:
-
-1. Amend a high level Architecture to include automation of a conversational bot solution in AdventureWorks.
-
-### Task 1: Architect an Enterprise-grade conversational bot in Azure
-
-1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01_Ex03_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.2** folder. Read the document and review the example.
-
-1. As a group, spend **10 minutes** discussing and diagraming the architectures that would form part of an Enterprise-grade conversational bot in  AdventureWorks. You can use the png files in the icon folder to build your architecture.
-
-> **Hint**: Only a simple architecture that deals with bot conversations is required
-
-> **Result**: After you completed this exercise, you have created an architecture to include an Enterprise-grade conversational bot in Azure.
 
 ## Lab Review
 
