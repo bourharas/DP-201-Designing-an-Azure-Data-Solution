@@ -77,19 +77,6 @@ The main task for this exercise is as follows:
 
 > **Result**: After you completed this exercise, you have created a stream processing pipeline with Azure Databricks solution in AdventureWorks.
 
-## Exercise 3: Create an Azure IoT reference architecture.
-
-**Group exercise**
-  
-The main task for this exercise is as follows:
-
-1. Confirming which architecture created would form part of an Azure IoT reference architecture.
-
-### Task 1: Create an Azure IoT reference architecture.
-
-1. As a group, spend **5 minutes** discussing and confirming which architecture that you have created so far that would form part of an Azure IoT reference architecture.
-
-> **Result**: After you completed this exercise, you have created an architecture to include an Azure IoT reference architecture in Azure.
 
 ## Lab Review
 
